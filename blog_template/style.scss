@@ -152,7 +152,7 @@ h2{
           border-radius: 16px 16px 0px 0px;
       }
       .card_text{
-          width: 100%;
+          width: auto;
       }
     .container-blog {
       max-width: 500px;
@@ -169,5 +169,8 @@ h2{
     .container_triple{
       width: 100%;
       margin-top: 50px;
+    }
+    .title_destaque{
+        font-size: 1.5rem;
     }
   }
